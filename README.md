@@ -15,3 +15,6 @@ python3 .../vt_to_maltego.py <vtgraph_id> <output_csv>
 
 where <vtgraph_id> refers to the ID of the graph you want to import and <output_csv>
 refers to the path of the out CSV file.
+
+Open Maltego menu, select import, and then "Import an exported table". Look for
+the CSV you have just created and that would be it.
