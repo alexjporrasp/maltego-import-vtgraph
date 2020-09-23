@@ -4,7 +4,8 @@ Script to save VirusTotal Graphs as Maltego CSV tables.
 ## Requirements
 
 1. Intall Python 3.
-2. Sign up/Log in at VirusTotal and save your API key in an OS environment variable.
+2. Sign up/Log in at VirusTotal and save your API key in an OS environment variable
+called "VIRUSTOTAL_API_KEY".
 
 ## Usage
 
